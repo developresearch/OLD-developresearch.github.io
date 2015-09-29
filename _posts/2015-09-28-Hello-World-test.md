@@ -1,6 +1,8 @@
 ---
 published: true
+layout: post
 ---
+
 
 ## Hello World! (Header2)
 
