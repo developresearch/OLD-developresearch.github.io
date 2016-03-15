@@ -8,9 +8,9 @@ tags:
   - test
 comments: true
 image: 
-  feature: "sample-image-4.jpg"
-  credit: WeGraphics
-  creditlink: "http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/"
+  feature: "new_orleans_2016.jpg"
+  credit: 
+  creditlink:
 published: true
 ---
 
