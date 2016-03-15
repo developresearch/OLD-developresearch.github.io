@@ -26,10 +26,10 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
+  name: Hector Segarra
   avatar: bio-photo.jpg
-  bio: "Describe your self."
-  email:
+  bio: "Research development specialist, proposal editor, and technology enthusiast."
+  email: hector.segarra@developresearch.net
   disqus-shortname:
   twitter: #username
   facebook: #username
