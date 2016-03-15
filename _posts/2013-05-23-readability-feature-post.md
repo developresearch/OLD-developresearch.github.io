@@ -8,7 +8,7 @@ tags:
   - test
 comments: true
 image: 
-  feature: "new_orleans_2016.jpg"
+  feature: "new-orleans-2016.jpg"
   credit: 
   creditlink:
 published: true
