@@ -1,9 +1,6 @@
 ---
 layout: page
-title: "Search"
-excerpt: "Search for content."
-sitemap: false
-permalink: /search.html
+title: Search
 ---
 
 Looking for something specific? Try searching for it below.
